@@ -64,7 +64,7 @@ Built as part of the ASE Fullstack Challenge for Verto.
 ## Usage
 
 - Open [http://localhost:3000](http://localhost:3000) for backend API.
-- Open [http://localhost:5173](http://localhost:3001) for frontend (if using default React port).
+- Open [http://localhost:5173](http://localhost:5173) for frontend (if using default React port).
 - Use the UI to manage employee records.
 
 
